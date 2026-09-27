@@ -1,16 +1,29 @@
-## Hi there 👋
+# 你好，我是陈斐阳 (Feiyang Chen)
 
-<!--
-**Feiyang2007/Feiyang2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+湖南大学 · 大数据管理与应用 · 2025 级本科生
+方向：具身智能（Embodied AI），目前主要精力放在“大脑”这一侧——机器学习与强化学习算法、数据处理与仿真。
 
-Here are some ideas to get you started:
+我习惯把学到的东西做成能跑、能看的真实项目，并把过程记录在自己的个人网站上。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 个人网站 / 作品集
+
+**https://feiyang2007.github.io**
+
+## 我在做的项目
+
+- **个人知识 RAG 助手** — 围绕自己的学习笔记做语义检索问答
+- **端到端机器学习 Pipeline** — 传感器 / 姿态数据分类，从数据到评估的完整流程
+- **手写数字识别** — 从零实现的 CNN，浏览器里画一个数字就能识别
+- **强化学习** — 纯 PyTorch 手写 DQN / PPO，含 MuJoCo 仿真
+- **行为克隆** — 用专家策略做模仿学习，让机械臂学会控制
+- **机械臂轨迹规划** — 关节空间 RRT\* + 前向运动学碰撞检测
+
+每个项目都有可交互的 demo 和真实跑出来的结果，具体都在网站上。
+
+## 技术栈
+
+Python · PyTorch · NumPy / Pandas · Scikit-learn · MuJoCo · Streamlit · Git
+
+## 联系
+
+最方便的方式是通过上面的个人网站。
