@@ -26,4 +26,7 @@ Python · PyTorch · NumPy / Pandas · Scikit-learn · MuJoCo · Streamlit · Gi
 
 ## 联系
 
+- 个人网站：https://feiyang2007.github.io
+- ORCID：https://orcid.org/0009-0001-7212-9001
+
 最方便的方式是通过上面的个人网站。
